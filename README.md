@@ -49,7 +49,7 @@ To install and run this project locally, add the following commands in your term
    `PORT`=`5000`<br>
    `HOST`=`localhost`<br>
    `USER`=`postgres`<br>
-   `PASSWORD`=`your-paasword`   
+   `PASSWORD`=`your-password`   
    `DB`=`bookstore`<br>  
    `TOKEN_SECRET`=`your-secret-token`
 
@@ -60,7 +60,7 @@ To install and run this project locally, add the following commands in your term
    `npm run dev`
 ```
 
-8. Open `http://localhost:5000` on your browser to view the project locally
+8. Run `http://localhost:5000` on your local API tester such as Postman or Thunder to test the endpoints
 
 ## Documentation
 
