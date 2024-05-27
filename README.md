@@ -44,6 +44,8 @@ To install and run this project locally, add the following commands in your term
    `npm install`
 ```
 
+6. Create a postgres database locally with name `bookstore` and run the query written in `models/init.sql` to create the tables.
+
 6. Create a .env file in the directory and add your **postgres** credentials accordingly
 
    `PORT`=`5000`<br>
