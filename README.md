@@ -8,9 +8,13 @@ Developed a backend server for showcasing a list of books and their details usin
 
 ## Features
 
-- This is a project a backend project where seller can login and add books by uploading the csv file. And user can view all the books
+- This is a backend project where seller can login and add books by uploading the csv file.
 
 - Seller can view, edit and delete their own books.
+
+- User can register with 'user' role and login using his/er credentials.
+
+- User can view all books and a particular book details.
 
 
 # Installation
