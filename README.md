@@ -46,7 +46,7 @@ To install and run this project locally, add the following commands in your term
 
 6. Create a postgres database locally with name `bookstore` and run the query written in `models/init.sql` to create the tables.
 
-6. Create a .env file in the directory and add your **postgres** credentials accordingly
+7. Create a .env file in the directory and add your **postgres** credentials accordingly
 
    `PORT`=`5000`<br>
    `HOST`=`localhost`<br>
@@ -56,13 +56,13 @@ To install and run this project locally, add the following commands in your term
    `TOKEN_SECRET`=`your-secret-token`
 
 
-7. Run the below command to start the project
+8. Run the below command to start the project
 
 ```bash
    `npm run dev`
 ```
 
-8. Run `http://localhost:5000` on your local API tester such as Postman or Thunder to test the endpoints
+9. Run `http://localhost:5000` on your local API tester such as Postman or Thunder to test the endpoints
 
 ## Documentation
 
