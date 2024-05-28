@@ -1,6 +1,6 @@
 ## Title
 
-Stratex Backend Assessment
+Stratex Backend 
 
 ## Description
 
